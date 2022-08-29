@@ -74,7 +74,7 @@
 
 Test the performance of the webpage after deploy by using [GTmetrix](https://gtmetrix.com/).
 
-![Project Performane result](info/js-workshop-performance.png)
+![Project Performane result](info/js-workshop-performance.jpg)
 
 
 ---
